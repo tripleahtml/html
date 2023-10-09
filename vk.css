@@ -1,0 +1,183 @@
+menu{
+	position: absolute;
+width: 1510px;
+height: 60px;
+background: white;
+top: 0px;
+}
+
+.vk{
+	position: absolute;
+	left: 250px;
+	top: 5px;
+}
+p{
+	position: absolute;
+	left: 290px;
+	top: 0px;
+	font-weight: 700;
+}
+
+
+form {
+  position: relative;
+  width: 200px;
+  margin: 0 auto;
+  left: -240px;
+  top: 6px;
+}
+input, button {
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+
+input {
+  width: 100%;
+  height: 25px;
+  background: #eeeff1;
+  padding-left: 15px;
+}
+
+
+.border{
+position: absolute;
+top: 60px;
+height: 700px;
+width: 1510px;
+background: #eeeff1;
+}
+
+.ph1{
+  position: absolute;
+  top: 30px;
+  left: 100px;
+}
+
+.sign{
+  position: absolute;
+  background: #ffffff;
+  top: 60px;
+  left: 900px;
+  height: 550px;
+  width: 300px;
+}
+
+.ph2{
+  position: absolute;
+  top: 20px;
+  left: 120px;
+}
+
+.nadp{
+  position: absolute;
+  top: 100px;
+  left: 60px;
+  font-weight: 800;
+  font-size: 25px;
+}
+
+.form2 {
+  position: relative;
+  width: 200px;
+  margin: 0 auto;
+  left: -5px;
+  top: 156px;
+}
+input, button {
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+
+input {
+  width: 100%;
+  height: 25px;
+  background: #eeeff1;
+  padding-left: 15px;
+}
+
+.check{
+  position: absolute;
+  top: 200px;
+  left: 60px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.text{
+  position: absolute;
+  top: 208px;
+  left: 100px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.signin{
+  position: absolute;
+  top: 250px;
+  left: 38px;
+  border: 0;
+  border-radius: 5px;
+  padding: 8px 96px;
+  background:#0077ff;
+  color: #ffffff;
+}
+
+.signin:hover{
+  background: #5c9ce6;
+  color: #fff;
+}
+
+h5{
+  position: absolute;
+  top: 270px;
+  left: 140px;
+  color: rgba(0,0,0,0.5);
+}
+
+.qr{
+  position: absolute;
+  top: 320px;
+  left: 38px;
+  border: 0;
+  border-radius: 5px;
+  padding: 8px 90px;
+  background:#ffffff;
+outline: 1px solid #000;
+}
+
+.qr:hover{
+  background: #eeeff1;
+
+}
+
+.regist{
+  position: absolute;
+  top: 400px;
+  left: 38px;
+  border: 0;
+  border-radius: 5px;
+  padding: 8px 52px;
+  background:#4bb34b;
+  color: #ffffff;
+}
+
+.regist:hover{
+  background: #3dcc4b;
+  color: #fff;
+}
+
+.h4{
+position: absolute;
+top: 160px;
+left: -120px;
+width: 400px;
+text-align: center;
+color: rgba(0,0,0,0.5);
+
+}
+
+a{
+  text-decoration: none;
+}
